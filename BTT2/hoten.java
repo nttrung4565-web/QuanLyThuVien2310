@@ -8,7 +8,7 @@ public class HoTen {
         String hoTen = scanner.nextLine();
 
         System.out.println("Xin chao: " + hoTen);
-
+        System.out.println("MSSV: 25115053125323");
         scanner.close();
     }
 }
